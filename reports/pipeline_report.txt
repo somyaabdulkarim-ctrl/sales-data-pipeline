@@ -1,0 +1,121 @@
+SALES DATA PIPELINE REPORT
+==================================================
+
+PIPELINE SUMMARY
+--------------------------------------------------
+Total rows: 101
+Valid rows: 92
+Rejected rows: 9
+Cleaned rows: 91
+Duplicates removed: 1
+
+VALIDATION CHECK
+--------------------------------------------------
+Validation row count check: PASSED
+Expected total: 101
+Valid + rejected: 101
+
+REJECTION SUMMARY
+--------------------------------------------------
+Quantity must be a number greater than 0: 2
+Unit price must be a number greater than 0: 2
+Order date is invalid or missing: 1
+Order ID is missing: 1
+Country is missing: 1
+Customer name is missing: 1
+Product is missing: 1
+
+REJECTED ROW DETAILS
+--------------------------------------------------
+Original row index: 9
+order_id: 1010.0
+order_date: invalid-date
+customer_name: Sarah Smith
+product: Headphones
+quantity: 2
+unit_price: 252.0
+country: Canada
+rejection_reason: Order date is invalid or missing
+--------------------------------------------------
+Original row index: 17
+order_id: nan
+order_date: 18/07/2026
+customer_name: Emma Jones
+product: Laptop Bag
+quantity: 6
+unit_price: 185.31
+country: Australia
+rejection_reason: Order ID is missing
+--------------------------------------------------
+Original row index: 24
+order_id: 1025.0
+order_date: 25/07/2026
+customer_name: Fatima Noor
+product: Wireless Mouse
+quantity: 0
+unit_price: 176.68
+country: New Zealand
+rejection_reason: Quantity must be a number greater than 0
+--------------------------------------------------
+Original row index: 31
+order_id: 1032.0
+order_date: 04/07/2026
+customer_name: David Brown
+product: Mouse Pad
+quantity: -3
+unit_price: 272.73
+country: New Zealand
+rejection_reason: Quantity must be a number greater than 0
+--------------------------------------------------
+Original row index: 38
+order_id: 1039.0
+order_date: 11/07/2026
+customer_name: Ali Mansour
+product: Portable SSD
+quantity: 6
+unit_price: not-a-price
+country: United Kingdom
+rejection_reason: Unit price must be a number greater than 0
+--------------------------------------------------
+Original row index: 45
+order_id: 1046.0
+order_date: 18/07/2026
+customer_name: Emma Jones
+product: Wireless Mouse
+quantity: 2
+unit_price: 299.27
+country: nan
+rejection_reason: Country is missing
+--------------------------------------------------
+Original row index: 81
+order_id: 1082.0
+order_date: 26/07/2026
+customer_name: nan
+product: Keyboard
+quantity: 7
+unit_price: 18.96
+country: Canada
+rejection_reason: Customer name is missing
+--------------------------------------------------
+Original row index: 88
+order_id: 1089.0
+order_date: 05/07/2026
+customer_name: Khaled Hassan
+product: nan
+quantity: 5
+unit_price: 24.91
+country: United Kingdom
+rejection_reason: Product is missing
+--------------------------------------------------
+Original row index: 94
+order_id: 1095.0
+order_date: 11/07/2026
+customer_name: John Lee
+product: Phone Charger
+quantity: 5
+unit_price: -20
+country: Saudi Arabia
+rejection_reason: Unit price must be a number greater than 0
+--------------------------------------------------
+
+END OF REPORT

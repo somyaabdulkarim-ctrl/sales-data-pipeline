@@ -1,0 +1,11 @@
+order_id	order_date	customer_name	product	quantity	unit_price	country
+1001	1/07/2026	Ahmed Ali	Laptop Bag	2	35.5	Australia
+1002	1/07/2026	Sarah Smith	Wireless Mouse	1	25	Australia
+1003	2/07/2026	Mohammed Saleh	Keyboard	3	45	Saudi Arabia
+1003	2/07/2026	Mohammed Saleh	Keyboard	3	45	Saudi Arabia
+1004	July 3 2026	Emma Jones	 USB Cable 	5	10	Australia
+1005	4/07/2026		Laptop Stand	1	55	Australia
+1006	5/07/2026	Khaled Hassan	Webcam	-2	70	UAE
+1007	6/07/2026	Lina Omar	Headphones	2		Australia
+1008	invalid-date	John Lee	Monitor	1	250	Australia
+1009	8/07/2026	Nora Ahmed	Mouse Pad	4	15	australia

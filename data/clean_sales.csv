@@ -1,0 +1,91 @@
+order_id,order_date,customer_name,product,quantity,unit_price,country
+1001.0,2026-07-01,Ali Mansour,Wireless Mouse,1,335.77,Saudi Arabia
+1002.0,2026-07-02,Emma Jones,Keyboard,2,307.1,United Kingdom
+1003.0,2026-07-03,Sarah Smith,USB Hub,7,22.05,Australia
+1004.0,2026-07-04,Emma Jones,USB Cable,1,256.07,Canada
+1005.0,2026-07-05,Ali Mansour,Phone Charger,7,105.43,United Kingdom
+1006.0,2026-07-06,Khaled Hassan,Laptop Bag,3,316.58,Uae
+1007.0,2026-07-07,Khaled Hassan,Keyboard,4,431.09,Uae
+1008.0,2026-07-08,Sarah Smith,Wireless Mouse,7,50.75,Uae
+1009.0,2026-07-09,Fatima Noor,Laptop Stand,1,330.54,United Kingdom
+1011.0,2026-07-11,Fatima Noor,Webcam,4,319.42,Australia
+1012.0,2026-07-12,Ali Mansour,USB Cable,5,443.47,Saudi Arabia
+1013.0,2026-07-13,Sarah Smith,Headphones,5,208.41,Uae
+1014.0,2026-07-14,Mohammed Saleh,Webcam,6,100.6,Uae
+1015.0,2026-07-15,Sophia Wilson,Portable SSD,2,277.24,Saudi Arabia
+1016.0,2026-07-16,David Brown,Phone Charger,4,80.22,New Zealand
+1017.0,2026-07-17,Khaled Hassan,Portable SSD,4,310.6,Australia
+1019.0,2026-07-19,Emma Jones,USB Hub,6,101.98,New Zealand
+1020.0,2026-07-20,John Lee,Portable SSD,8,71.15,Saudi Arabia
+1021.0,2026-07-21,Emma Jones,Phone Charger,5,338.18,New Zealand
+1022.0,2026-07-22,Fatima Noor,Headphones,6,104.94,Saudi Arabia
+1023.0,2026-07-23,David Brown,Monitor,2,342.06,Australia
+1024.0,2026-07-24,Mohammed Saleh,Portable SSD,3,358.1,New Zealand
+1026.0,2026-07-26,David Brown,Laptop Stand,1,308.69,Australia
+1027.0,2026-07-27,Ali Mansour,Mouse Pad,5,347.72,Uae
+1028.0,2026-07-28,Sarah Smith,Laptop Stand,7,77.91,Australia
+1029.0,2026-07-01,Sophia Wilson,Phone Charger,5,437.57,Saudi Arabia
+1030.0,2026-07-02,David Brown,Wireless Mouse,5,380.02,United Kingdom
+1031.0,2026-07-03,Fatima Noor,USB Cable,3,173.27,Saudi Arabia
+1033.0,2026-07-05,Ahmed Ali,Wireless Mouse,6,396.4,Uae
+1034.0,2026-07-06,Emma Jones,Laptop Bag,4,396.08,Australia
+1035.0,2026-07-07,Sarah Smith,Phone Charger,8,368.68,United Kingdom
+1036.0,2026-07-08,Mohammed Saleh,Keyboard,8,426.51,Saudi Arabia
+1037.0,2026-07-09,Khaled Hassan,Mouse Pad,7,434.25,United Kingdom
+1038.0,2026-07-10,Sophia Wilson,Phone Charger,4,323.12,New Zealand
+1040.0,2026-07-12,Nora Ahmed,Wireless Mouse,4,107.32,Uae
+1041.0,2026-07-13,Ahmed Ali,USB Hub,4,268.09,Australia
+1042.0,2026-07-14,Sarah Smith,Phone Charger,1,109.19,Australia
+1043.0,2026-07-15,Lina Omar,Wireless Mouse,4,131.09,New Zealand
+1044.0,2026-07-16,Emma Jones,Mouse Pad,3,327.72,United Kingdom
+1045.0,2026-07-17,Fatima Noor,Monitor,4,354.8,New Zealand
+1047.0,2026-07-19,John Lee,Headphones,8,389.82,Australia
+1048.0,2026-07-20,Ali Mansour,Portable SSD,2,34.79,Canada
+1049.0,2026-07-21,Lina Omar,Wireless Mouse,4,92.68,United Kingdom
+1050.0,2026-07-22,Nora Ahmed,Keyboard,7,89.1,New Zealand
+1051.0,2026-07-23,Emma Jones,Wireless Mouse,8,365.15,United Kingdom
+1052.0,2026-07-24,Sarah Smith,Laptop Bag,1,436.3,Saudi Arabia
+1053.0,2026-07-25,Sarah Smith,Headphones,8,220.76,New Zealand
+1054.0,2026-07-26,Ahmed Ali,Keyboard,7,8.95,New Zealand
+1055.0,2026-07-27,Khaled Hassan,Monitor,5,194.97,Canada
+1056.0,2026-07-28,David Brown,Portable SSD,8,76.42,Uae
+1057.0,2026-07-01,Emma Jones,Laptop Bag,1,338.61,Australia
+1058.0,2026-07-02,Ahmed Ali,USB Hub,8,230.26,United Kingdom
+1059.0,2026-07-03,Mohammed Saleh,Laptop Bag,2,384.29,Australia
+1060.0,2026-07-04,Fatima Noor,wireless mouse,4,186.47,United Kingdom
+1061.0,2026-07-05,Emma Jones,USB Hub,1,281.77,New Zealand
+1062.0,2026-07-06,Ali Mansour,USB Hub,6,421.14,Saudi Arabia
+1063.0,2026-07-07,Ali Mansour,Phone Charger,6,113.5,New Zealand
+1064.0,2026-07-08,Mohammed Saleh,Portable SSD,5,210.09,Australia
+1065.0,2026-07-09,Ahmed Ali,Monitor,2,40.38,Saudi Arabia
+1066.0,2026-07-10,David Brown,Laptop Stand,3,420.5,Australia
+1067.0,2026-07-11,Emma Jones,Webcam,5,77.72,Australia
+1068.0,2026-07-12,Sophia Wilson,Laptop Stand,1,303.2,United Kingdom
+1069.0,2026-07-13,Khaled Hassan,Portable SSD,2,423.01,Saudi Arabia
+1070.0,2026-07-14,Khaled Hassan,Wireless Mouse,2,336.15,Saudi Arabia
+1071.0,2026-07-15,Khaled Hassan,Laptop Stand,4,325.18,Saudi Arabia
+1072.0,2026-07-16,Ali Mansour,Portable SSD,5,231.39,Uae
+1073.0,2026-07-17,Ahmed Ali,Wireless Mouse,7,374.57,Australia
+1075.0,2026-07-19,Mohammed Saleh,Phone Charger,8,251.84,New Zealand
+1076.0,2026-07-20,David Brown,Laptop Bag,2,41.26,Canada
+1077.0,2026-07-21,Mohammed Saleh,Mouse Pad,1,376.89,United Kingdom
+1078.0,2026-07-22,David Brown,Keyboard,7,64.33,Uae
+1079.0,2026-07-23,Lina Omar,Laptop Bag,6,100.85,Saudi Arabia
+1080.0,2026-07-24,Ali Mansour,Wireless Mouse,6,352.81,New Zealand
+1081.0,2026-07-25,Fatima Noor,Phone Charger,3,417.19,Saudi Arabia
+1083.0,2026-07-27,Lina Omar,Headphones,4,125.93,Canada
+1084.0,2026-07-28,Sarah Smith,Headphones,1,387.5,Saudi Arabia
+1085.0,2026-07-01,Emma Jones,Monitor,6,142.89,Saudi Arabia
+1086.0,2026-07-02,Emma Jones,Laptop Bag,4,184.12,Uae
+1087.0,2026-07-03,Sarah Smith,Laptop Stand,6,291.53,New Zealand
+1088.0,2026-07-04,Ali Mansour,Mouse Pad,6,423.14,Australia
+1090.0,2026-07-06,John Lee,Webcam,6,200.89,United Kingdom
+1091.0,2026-07-07,Sarah Smith,Headphones,4,120.59,Canada
+1092.0,2026-07-08,John Lee,Laptop Bag,4,168.99,Australia
+1093.0,2026-07-09,Ali Mansour,Webcam,6,301.22,Australia
+1094.0,2026-07-10,Sophia Wilson,Laptop Stand,5,302.77,Uae
+1096.0,2026-07-12,John Lee,Portable SSD,7,307.37,Saudi Arabia
+1097.0,2026-07-13,Fatima Noor,USB Hub,5,187.49,Australia
+1098.0,2026-07-14,Khaled Hassan,Laptop Stand,4,198.01,United Kingdom
+1099.0,2026-07-15,Fatima Noor,Portable SSD,6,213.52,New Zealand
+1100.0,2026-07-16,Ali Mansour,USB Cable,8,358.83,Canada
