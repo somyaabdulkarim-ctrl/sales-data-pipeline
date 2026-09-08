@@ -8,4 +8,4 @@ LOG_FILE_PATH = "logs/pipeline.log"
 
 DATABASE_NAME="sales_db"
 
-TABLE_NAME="sales"
+TABLE_NAME="sales_data"

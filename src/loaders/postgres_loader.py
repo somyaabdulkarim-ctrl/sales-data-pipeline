@@ -21,9 +21,16 @@ class PostgresLoader(DataLoader):
                 VALUES (%s, %s, %s, %s, %s, %s, %s)
                 ON CONFLICT (order_id) DO NOTHING
                 """
+                batch_size=500
                 inserted_rows = 0
-                for _, row in cleaned_df.iterrows():
-                    values = (
+                
+                for start in range(0,len(cleaned_df),batch_size):
+                    end=start+batch_size
+                    batch= cleaned_df.iloc[start:end]
+                    batch_values=[]
+
+                    for _, row in batch.iterrows():    
+                        values = (
                         int(row["order_id"]),
                         row["order_date"],
                         row["customer_name"],
@@ -31,9 +38,10 @@ class PostgresLoader(DataLoader):
                         int(row["quantity"]),
                         row["unit_price"],
                         row["country"]
-                    )
+                        )
+                        batch_values.append(values)
         
-                    cursor.execute(insert_query, values)
+                    cursor.executemany(insert_query, batch_values)
                     inserted_rows += cursor.rowcount
         
                 connection.commit()
